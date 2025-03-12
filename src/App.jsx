@@ -131,10 +131,11 @@ function App() {
           Here are some of my recent projects that showcase my skills and creativity in web development.
         </p>
         <ul className="mt-10 mb-20 space-y-2">
-          <li><a href="https://shaswatshrivasportfolio.vercel.app" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">1. My Portfolio</a></li>
+          <li><a href="https://shaswatshrivasportfolio.vercel.app" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">1. Modern Style Next.js Portfolio</a></li>
           <li><a href="https://shazverse-themovieverse.vercel.app" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">2. Shazverse</a></li>
-          <li><a href="https://github.com/ShaswatShrivas/Beat-The-Hacker" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">3. Beat-The-Hacker</a></li>
-          <li><a href="https://github.com/ShaswatShrivas/AI_Desktop_Assistant" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">4. AI Desktop Assistant</a></li>
+          <li><a href="https://beatdhacker.vercel.app" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">3. BeatDHacker</a></li>
+          <li><a href="https://github.com/ShaswatShrivas/forecastify" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">4. Forcastǐfy</a></li>
+          <li><a href="https://imageinfinity.vercel.app" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-300">5. ImageInfinity</a></li>
         </ul>
 
         <div id="contact">
